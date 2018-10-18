@@ -1,0 +1,9 @@
+1. git init new-project
+
+2. git add .\foo
+
+3. git commit -m "add foo"
+
+4. git remote add origin https://github.com/ucarkadir/new-project.git
+
+5. git push -u origin master
