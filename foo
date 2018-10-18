@@ -1,9 +1,11 @@
 1. git init new-project
 
-2. git add .\foo
+2. ni / touch foo
 
-3. git commit -m "add foo"
+3. git add .\foo
 
-4. git remote add origin https://github.com/ucarkadir/new-project.git
+4. git commit -m "add foo"
 
-5. git push -u origin master
+5. git remote add origin https://github.com/ucarkadir/new-project.git
+
+6. git push -u origin master
